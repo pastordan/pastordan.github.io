@@ -8,6 +8,5 @@ include: ["_pages"]
 permalink: /:title/
 
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 baseurl: /strange_case # the subpath of your site, e.g. /blog/
