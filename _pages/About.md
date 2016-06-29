@@ -5,7 +5,7 @@ date: 2016-06-25 12:00:00
 categories: page
 description: About
 resource: true
-featured_image: /images/cover.jpg
+featured_image: /images/about.jpg
 permalink: /about
 ---
 
