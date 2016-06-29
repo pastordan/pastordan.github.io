@@ -2,7 +2,7 @@
 layout: default
 permalink: /news
 ---
-<header id="home-header" style="background-image: url({{ site.baseurl }}{{ site.sidebar_image }});">
+<header id="home-header" style="background-image: url({{ site.github.url }}{{ site.sidebar_image }});">
   <div class="container">
     <h1>{{ site.title }}</h1>
     <h2>United Church of Christ</h2>
@@ -16,7 +16,7 @@ permalink: /news
 </header>
 <article>
 <div class="info">
-  <h1><a href="{{ site.baseurl }}">St. Paul's United Church of Christ</a></h1>
+  <h1><a href="{{ site.github.url }}">St. Paul's United Church of Christ</a></h1>
   <h2>News</h2>
   <p>News About Ministry Worship Setting</p>
 </div>
@@ -24,7 +24,7 @@ permalink: /news
     <ul class="posts">
       {% for post in site.posts %}
         <li>
-          <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+          <h2><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h2>
           <span class="meta">
             {{ post.date | date_to_string }}
           </span>
