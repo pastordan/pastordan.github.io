@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<header id="home-header" style="background-image: url({{ site.baseurl }}{{ site.sidebar_image }});">
+  <div class="container">
+    <h1>{{ site.title }}</h1>
+    <h2>United Church of Christ</h2>
+    <ul class="meta">
+      <li>
+        <span>
+          {{ site.tagline }}
+        </span>
+      </li>
+  </div>
+</header>
+<article>
+<div class="info">
+  <h1><a href="{{ site.baseurl }}">St. Paul's United Church of Christ</a></h1>
+  <h2>You are welcome here</h2>
+  <p id="contact"><a href="https://www.google.com/maps/place/Saint+Pauls+United+Church+of+Christ/@43.9156904,-88.2833554,15z/data=!4m5!3m4!1s0x0:0xc3e006a0adb70dac!8m2!3d43.916185!4d-88.283055">N10362 St Paul Rd, Malone, WI 53049</a> <a href="tel:9207954505">920.795.4505</a> <a href="mailto:stpaulsmalone@gmail.com">stpaulsmalone@gmail.com</a></p>
+  <p id="worship">Worship: 10:00 a.m. Sunday</p>
+  <p id="links"><a href="{{ site.baseurl }}/news">News</a> + <a href="#About">About</a> + <a href="#Ministry">Ministry</a> + <a href="#Worship">Worship</a> + <a href="#Setting">Setting</a></p>
+</div>
+  <div class="container">
+    {% for page in site.pages %}
+  {% if page.categories contains 'page' %}
+    <ul class="posts">
+      <li><a name="{{page.title}}"></a><a href="{{site.baseurl}}/{{page.title}}"><h2>{{page.title}}</h2></a>
+      <img src="{{site.baseurl}}{{ page.featured_image }}" style="max-width:100%;">
+      <p>{{page.description}}</p>
+      <p class="readmore"><a href="{{site.baseurl}}/{{page.title}}">read more</a></p>
+      </li>
+    </ul>
+  {% endif %}
+{% endfor %}
+  </div>
+  <footer><p>&copy;{{ page.date | date: "%Y" }} St. Paul's United Church of Christ</p></footer>
+</article>
