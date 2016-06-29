@@ -25,10 +25,10 @@ layout: default
     {% for page in site.pages %}
   {% if page.categories contains 'page' %}
     <ul class="posts">
-      <li><a name="{{page.title}}"></a><a href="{{site.baseurl}}/{{page.title}}"><h2>{{page.title}}</h2></a>
+      <li><a name="{{page.title}}"></a><a href="{{ site.github.url }}/{{page.title}}"><h2>{{page.title}}</h2></a>
       <img src="{{ site.github.url }}{{ page.featured_image }}" style="max-width:100%;">
       <p>{{page.description}}</p>
-      <p class="readmore"><a href="{{site.baseurl}}/{{page.title}}">read more</a></p>
+      <p class="readmore"><a href="{{ site.github.url }}/{{page.title}}">read more</a></p>
       </li>
     </ul>
   {% endif %}
