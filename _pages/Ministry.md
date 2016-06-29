@@ -5,33 +5,16 @@ date: 2016-06-25 12:00:00
 categories: page
 description: Ministry
 resource: true
-featured_image: /images/cover.jpg
+featured_image: /images/ministry.png
 permalink: /ministry
 ---
 
-**Strange Case of Dr Jekyll and Mr Hyde is the original title of a novella written by the Scottish author [Robert Louis Stevenson]() that was first published in 1886. The work is commonly known today as The Strange Case of Dr. Jekyll and Mr. Hyde, Dr. Jekyll and Mr. Hyde, or simply Jekyll & Hyde. It is about a London lawyer named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr. Henry Jekyll, and the evil Edward Hyde.**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris enim, scelerisque vitae interdum quis, pretium id risus. Nulla facilisi. Morbi rhoncus augue leo, et faucibus velit aliquam id. Sed condimentum velit vel lectus vestibulum, id euismod tortor gravida. Suspendisse nec mauris a massa interdum ullamcorper eu sit amet ligula. Donec id porta est. Nulla facilisi. Nullam et ullamcorper lacus, a aliquam metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed sit amet quam sit amet velit finibus placerat. Nullam lacus est, sollicitudin in dolor sit amet, convallis tincidunt odio. Nam at fermentum justo.
 
-## Inspiration & Writing
+Proin vel porttitor nunc. Proin tempor diam at augue ultrices, sit amet convallis nibh facilisis. Praesent non justo libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum sollicitudin non risus ac vestibulum. Cras consectetur purus varius lectus sagittis pulvinar. Nam ultricies orci quis nisl tempus ornare. Donec eget condimentum nunc, sed sollicitudin nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris ultrices enim sed commodo vehicula. Maecenas cursus vel dui sit amet faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin euismod faucibus lectus, et tempor nulla lacinia eget.
 
-Stevenson had long been intrigued by the idea of how personalities can affect a human and how to incorporate the interplay of good and evil into a story. While still a teenager, he developed a script for a play about Deacon Brodie, which he later reworked with the help of W. E. Henley and saw produced for the first time in 1882. In early 1884 he wrote the short story "Markheim", which he revised in 1884 for publication in a Christmas annual. One night in late September or early October 1885, possibly while he was still revising "Markheim," Stevenson had a dream, and upon wakening had the intuition for two or three scenes that would appear in the story. Biographer Graham Balfour quoted Stevenson's wife Fanny Stevenson:
+In quis massa scelerisque, molestie felis eget, semper libero. Sed malesuada porta ex, semper pellentesque quam feugiat eu. Curabitur congue elit eu ornare pulvinar. Morbi consectetur ac dui a consectetur. Donec bibendum diam eu gravida eleifend. Curabitur dapibus justo elit, eu ornare risus euismod id. Nullam a diam accumsan, cursus augue id, hendrerit odio. Aliquam a magna imperdiet, tristique ex eget, cursus nulla. In accumsan massa non lectus pellentesque tempor.
 
-> "In the small hours of one morning, I was awakened by cries of horror from Louis. Thinking he had a nightmare, I awakened him. He said angrily: 'Why did you wake me? I was dreaming a fine bogey tale.' I had awakened him at the first transformation scene."
+Curabitur iaculis consequat erat, a pulvinar ligula aliquam in. Maecenas ante velit, euismod id eros in, pellentesque lacinia dui. Nulla convallis pellentesque porta. Integer sit amet suscipit nisi. Nulla ipsum sem, bibendum a pretium vel, egestas eu mauris. Donec ullamcorper porttitor lorem, id volutpat lacus condimentum eget. Fusce mauris erat, bibendum ut posuere vel, pretium et odio.
 
-## Main Characters
-
-The story revolves around **8 main characters**:
-
-- Dr. Henry Jekyll/Edward Hyde
-- Mr. Gabriel John Utterson
-- Richard Enfield
-- Dr. Hastie Lanyon
-- Mr. Poole
-- Inspector Newcomen
-- Sir Danvers Carew
-- Maid
-
-## Reception
-
-Strange Case of Dr Jekyll and Mr Hyde was an immediate success and is one of Stevenson's best-selling works. Stage adaptations began in Boston and London and soon moved all across England and then towards his home Scotland within a year of its publication and it has gone on to inspire scores of major film and stage performances.
-
-The Strange Case of Dr Jekyll and Mr Hyde was initially sold as a paperback for one shilling in the UK and one dollar in the U.S. The American publisher issued the book on 5 January 1886, four days before the first appearance of the UK edition issued by Longmans; Scribner's published 3000 copies, only 1250 of them bound in cloth. Initially stores would not stock it until a review appeared in The Times, on 25 January 1886, giving it a favourable reception. Within the next six months, close to forty thousand copies were sold. The book's success was probably due more to the "moral instincts of the public" than any perception of its artistic merits; it was widely read by those who never otherwise read fiction, quoted in pulpit sermons and in religious papers. By 1901 it was estimated to have sold over 250,000 copies.
+Morbi sit amet gravida erat. Phasellus in semper dolor. Fusce libero orci, fermentum nec enim ut, gravida auctor arcu. Aliquam mattis nisl eu odio laoreet sollicitudin. Integer ultrices nunc orci, in viverra ante congue id. Donec euismod laoreet odio, in venenatis odio egestas a. Aliquam facilisis a turpis vitae sagittis. Vestibulum sed rhoncus mi, sed auctor magna. Aliquam ut congue ante.
