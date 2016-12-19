@@ -16,7 +16,7 @@ twitter_username: pastordan
 facebook_username: DanielSchultzWriter
 
 # Build settings
-highlighter: true
+highlighter: rouge
 
 #gems
 gems: [jekyll-paginate]
