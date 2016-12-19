@@ -17,7 +17,6 @@ facebook_username: DanielSchultzWriter
 
 # Build settings
 highlighter: true
-markdown: rdiscount
 
 #gems
 gems: [jekyll-paginate]
