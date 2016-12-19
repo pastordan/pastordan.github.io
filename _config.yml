@@ -10,8 +10,8 @@ title: A Pastor's Notebook
 email: dan@apastorsnotebook.com
 description: > # this means to ignore newlines until "baseurl:"
   Faith, politics, cookies
-baseurl: "/~administrator/project-folder/apn/_site" # the subpath of your site, e.g. /blog
-url: "http://localhost/~administrator/project-folder/apn/index.html" # the base hostname & protocol for your site
+baseurl: "pastordan.github.io/_site" # the subpath of your site, e.g. /blog
+url: "https://github.com/pastordan/pastordan.github.io/apn/index.html" # the base hostname & protocol for your site
 twitter_username: pastordan
 facebook_username: DanielSchultzWriter
 
