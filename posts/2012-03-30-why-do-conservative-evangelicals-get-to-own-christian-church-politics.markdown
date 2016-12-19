@@ -1,0 +1,26 @@
+---
+layout: post
+title: Why DO Conservative Evangelicals Get To Own "Christian"? [Church] [Politics]
+date: '2012-03-30 00:27:00'
+---
+
+
+[Timothy Noah](http://www.tnr.com/blog/timothy-noah/102074/language-cop-christian) has a pretty good piece up at The New Republic blog asking just that question:
+
+> As I lay in bed struggling to wake up I thought: Christian? Christians aren’t some twee boutique demographic. Christians represent the majority. About 78 percent of Americans self-identify as Christian, [according to](http://religions.pewforum.org/reports) the Pew Forum on Religion and Public Life. What NPR and Fox and Sony mean when they say “Christian” is “Christian right” or “Christian conservatives,” terms that adherents don’t like because they [think they’re pejorative](http://www.slate.com/articles/news_and_politics/chatterbox/2004/11/redstate_pc.html). “Fundamentalist” and “evangelical” are imperfect substitutes because a) the two categories, though they overlap a lot, aren’t precisely the same; and b) some of these folks consider themselves political liberals. (The worldly Cold War liberal Reinhold Niebuhr called himself an evangelical Protestant.) What conservative Christians really like to be called is “Christians.” Hence “Christian rock” and “Christian college” and now “Christian film.” This strikes me as terribly presumptuous. Bruce Springsteen was raised Catholic but he doesn’t perform anything these folks would accept as Christian rock. Wesleyan was founded by Methodists and named after John Wesley but evangelicals would never call it a Christian university. “Christian” has become a euphemism for “acceptable to the type of Christian (in most instances Protestant) who frowns on homosexuality and wishes Saul Alinsky had minded his own business.”
+
+Erm, about Niebuhr: as many of you know, he was ordained in the Evangelical Synod of North America, might have been still the *Evangelische Kirche* at that point, actually. The “Evangelical” here is used in the German sense of low-church Protestant, rather than the pietists emerging from fundamentalism in the 20th century. You can still see it used in denominational names like the Evangelical Lutheran Church in America.
+
+Anyway, to Noah’s point, there are three things that come together to give us the misappropriated term “Christian.”
+
+1. Conservative Evangelicals tend to be folks who eschew denominational labels. They’re “just Christians,” thank you very much. As well, they tend to have sharper boundaries between their communities and the rest of society. So they’re Christians, their friends and family are Christians, and the rest of those people they don’t know as well…are Methodists or Presbyterians or whatnot.
+2. As an extension of 1. above, “Christian” becomes a branding term. So a “Christian bookstore” really means “a place where my ‘Christian’ friends and I shop,” “Christian rock” is the genre played by praise bands in Evangelical worship centers, and a “Christian film” is one that reflects the worldview of the self-described Christians who go to see shit flicks like [*Fireproof*](http://www.imdb.com/title/tt1129423/).
+3. At this point you might be starting to get the idea that “Christian” goes beyond branding to something like a shibboleth, an ideological marker to describe who’s a part of the community and who isn’t. That’s right, for good reasons and bad. The good, as harryrohde points out in Noah’s comments, is that conservative Evangelicals don’t think of being Christian as a birthright. It’s something taken on as a conscious decision, a commitment to living out the principles of the Christian life. If you hear people talk about their “faith walk,” or “following Jesus,” this is what they’re talking about. It’s also why the Evangelicals can ask with a straight face “Is Obama a Christian president?” They’re not asking if he attends a Christian church. They want to know if he’s signed onto the intentional self-improvement program. That would be one thing if it were simply a verbal tic, a peculiar (in both senses of the word) way of looking at things. But it comes with a fair amount of judgment attached. I wouldn’t say that *all* conservative Christians are convinced that they have the one true way and the rest of us are posers, but it’s not uncommon. There really are some people who think they’re Christians and people like me ain’t nothing. Even worse, a lot of that breaks down along political lines, not religious. Go read Noah to see where that winds up.
+
+Well, that’s more religious trivia than you wanted, I’m sure. What to do about the situation is a little less clear. While journalists certainly should be careful about how they use terminology, it’s easy to see how they get in this pickle. It’s not *wrong* to talk about a “Christian film,” but it is a bit misleading because it only ever seems to be used by those conservative Evangelicals. The only sure remedy is for liberal apostates like myself to start using the term. No, I don’t care if you don’t think Jeremiah Wright isn’t “really” Christian. You don’t own the term.
+
+Shorter Schultz: hey, NPR! I’m a Christian! I write a Christian blog! I think Christian thoughts, and some other things too. So call those guys conservative Christians, and me God’s best friend, please!
+
+They hung up…
+
+
