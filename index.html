@@ -1,0 +1,29 @@
+---
+layout: default
+pagination: 
+  enabled: true
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+  <div class="content">
+    {% if post.content contains '<!--more-->' %}
+     {{ post.content | split:'<!--more-->' | first }}
+    {% else %}
+     {{ post.content }}
+    {% endif %}
+  </div>
+  <div><span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+            <span class="more"><a href="{{ post.url | prepend: site.baseurl }}">read more...</a></span>
+            <br>
+            <span class="separator">+&nbsp;+&nbsp;+&nbsp;</span></div> 
+      </li>
+    {% endfor %}
+  </ul>
+<img src="/~administrator/project-folder/apn/img/guadalupe.png" class="Virgen" title="¿No estoy yo aquí que soy tu Madre?">
+</div>
+

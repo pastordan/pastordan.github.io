@@ -1,0 +1,27 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: A Pastor's Notebook
+email: dan@apastorsnotebook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Faith, politics, cookies
+baseurl: "/~administrator/project-folder/apn/_site" # the subpath of your site, e.g. /blog
+url: "http://localhost/~administrator/project-folder/apn/index.html" # the base hostname & protocol for your site
+twitter_username: pastordan
+facebook_username: DanielSchultzWriter
+
+# Build settings
+highlighter: true
+markdown: rdiscount
+
+#gems
+gems: [jekyll-paginate]
+
+#pagination
+paginate: 5
+safe: false

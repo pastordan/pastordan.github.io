@@ -1,0 +1,46 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="{{ site.baseurl }}/"><h2 class="footer-heading">{{ site.title }}</h2></a>
+
+    <div class="footer-col-wrapper">
+    <div class="footer-col footer-col-3">
+        <p>{{ site.description }}</p>
+      </div>
+
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li><a href="{{ site.baseurl }}/contact" title="contact"><svg style="width:24px;height:24px" viewBox="0 0 24 22">
+    <path fill="#ff0000" d="M20,4H4A2,2 0 0,0 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6A2,2 0 0,0 20,4M20,18H4V8L12,13L20,8V18M20,6L12,11L4,6V6H20V6Z" /></a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+
+          <!-- Pagination links -->
+          {% if paginator.total_pages > 1 %}
+          <div class="pagination">
+            {% if paginator.previous_page %}
+              <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="previous">&#x2190;</a>
+            {% else %}
+              <span class="previous">&#x2190;</span>&nbsp;
+            {% endif %}
+
+            <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }} </span>&nbsp;
+            
+            {% if paginator.next_page %}
+              <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">&#x2192;</a>
+            {% else %}
+              <span class="next ">&#x2192;</span>
+            {% endif %}
+          </div>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
