@@ -328,6 +328,7 @@ footer .site-title {
 
 @media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) {
   .page-content {padding-top: 2.5%;}
+  .site-description { vertical-align: middle; }
 }
 
 .page-heading {
