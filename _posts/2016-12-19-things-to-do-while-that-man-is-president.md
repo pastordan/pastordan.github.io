@@ -30,7 +30,7 @@ Let’s see. I bet I can come up with 20 things you can do to make life better u
 
 13. Work in a soup kitchen or volunteer at a food pantry. It needs to be done anyway, even more now.
 
-14. A couple of hards one: if you don’t like mega-corporate banks, join a credit union. Help start one for underserved neighborhoods.
+14. A couple of hard one: if you don’t like mega-corporate banks, join a credit union. Help start one for underserved neighborhoods.
 
 15. Foster a child. Welcome that little stranger into your home and love them, deeply.
 
@@ -42,11 +42,11 @@ Let’s see. I bet I can come up with 20 things you can do to make life better u
 
 19. If you live in a mostly white area, especially if rural, talk about your experiences outside the neighborhood. Highlight diversity.
 
-20. If somebody tells a racist or sexist joke in your presence, tell them you don’t like humor that hurts people. When they say "What’s the matter, can’t you take a joke?" Don’t get angry. Tell them how sad and hurt it makes you feel.
+20. If somebody tells a racist or sexist joke in your presence, tell them you don’t like humor that hurts people. When they say "What’s the matter, can’t you take a joke?" don’t get angry. Tell them how sad and hurt it makes you feel.
 
 21. If you want to be a little more partisan/political, when somebody mentions how the little guy is getting screwed by big companies, point out how Trump is in bed with those same companies. Wouldn’t it be nice if someone would actually help someone like you?
 
-22. Along the lines of 20 ☝︎, if somebody says, "Thank God we don’t have be politically correct anymore!" Tell them you prefer not to be hurtful with your language.
+22. Along the lines of 18 ☝︎, if somebody says, "Thank God we don’t have be politically correct anymore!" Tell them you prefer not to be hurtful with your language.
 
 23. Don’t be ashamed to read books by minority/gay authors. Same with films, TV, music. You like Blackish or Modern Family? Let people know!
 
@@ -56,13 +56,13 @@ Let’s see. I bet I can come up with 20 things you can do to make life better u
 
 26. Take a chance on employing somebody who’s served time in prison.
 
-27. In addition to giving money to [Planned Parenthood](https://secure.ppaction.org/Donate/Defend‎) and the [ACLU](https://www.aclu.org/donate/join-renew-give), among others, support a blogger or independent journalist. Recommended: [Digby](http://digbysblog.blogspot.com/), [Atrios](http://atrios.blogspot.com/), [Sarah Posner](http://sarahposner.com/), [Oliver Willis](http://oliverwillis.com/about/), [emptywheel](https://www.emptywheel.net/about/) and oh so many more, including [Religion Dispatches](http://religiondispatches.org), or, erm, me.
+27. In addition to giving money to [Planned Parenthood](https://secure.ppaction.org/Donate/Defend‎) and the [ACLU](https://www.aclu.org/donate/join-renew-give), among others, support a blogger or independent journalist. Recommended: [Digby](http://digbysblog.blogspot.com/), [Atrios](http://atrios.blogspot.com/), [Sarah Posner](http://sarahposner.com/), [Oliver Willis](http://oliverwillis.com/about/), [emptywheel](https://www.emptywheel.net/about/) and oh so many more, including [Religion Dispatches](http://religiondispatches.org), or, erm, [me](http://apastorsnotebook.com/support.html).
 
 28. If you’re the praying sort, pray for yourself, and for forgiveness for your political opponents. Shut up. Do it anyway. Go to church. Participate in and support the community. Civil society is *important*.
 
 29. Volunteer on a reservation. Remind yourself of what your priorities should be, and who deserves your support.
 
-30. Make a friend outside your usual social circle. Stick with them even things get tough, politically.
+30. Make a friend outside your usual social circle. Stick with them even if things get tough, politically.
 
 31. Finishing up: if you’d like to hang out with Muslims, see if you can wangle an invitation to an iftar dinner. They are *amazing.*
 
