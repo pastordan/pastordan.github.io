@@ -13,7 +13,7 @@ I trust that you have all had your fill of screaming kiddies opening presents, f
 I have a Christmas special for you.
 
 
-(The following are a series of previously scheduled tweets. Much like ads in your dreams, you will not be able to turn them off.)
+<!--more-->
 
 
 1. So, then. Let us talk about Christmas, and what it means to you.
