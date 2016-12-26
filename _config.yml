@@ -16,16 +16,6 @@ url: "pastordan.github.io" # the base hostname & protocol for your site
 twitter_username: pastordan
 facebook_username: DanielSchultzWriter
 
-# Post settings
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      share: facebook linkedin twitter # Default sharing
-
 future: true
 
 # Build settings
