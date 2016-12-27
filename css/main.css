@@ -75,10 +75,11 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: #2a7ae2;
-  text-decoration: none; }
+  text-decoration: none;
+  outline:0;}
   a:visited {
     color: #1756a9; }
-  a:hover {
+  a:hover, a:focus, a:active {
     color: #f00000;
     text-decoration: underline; }
 
