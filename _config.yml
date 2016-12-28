@@ -27,3 +27,19 @@ gems: [jekyll-paginate]
 #pagination
 paginate: 5
 safe: false
+
+#social share
+social:
+  - icon: twitter
+    url: https://twitter.com/pastordan
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:  facebook
+    url: https://facebook.com/DanielSchultzWriter
+    desc: Connect with me facebook
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
