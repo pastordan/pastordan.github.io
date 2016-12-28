@@ -22,5 +22,24 @@ layout: default
     <span class="separator">+&nbsp;+&nbsp;+&nbsp;</span></div> 
 	<img src="/img/guadalupe.png" class="Virgen" title="¿No estoy yo aquí que soy tu Madre?">
   </div>
+ <aside>
+<h2>Related posts</h2>
+<dl>
+{% for post in site.posts %}
+{% assign isRelated = false %}
+{% for tag in post.tags %}
+{% for myTag in page.tags %}
+{% if tag == myTag %}
+{% assign isRelated = true %}
+{% endif %}
+{% endfor %}
+{% endfor %}
 
+{% if isRelated == true %}
+<dt>{{ post.title }}</dt>
+<dd>{{ post.description }}</dd>
+{% endif %}
+{% endfor %}
+</dl>
+</aside>
 </article>
