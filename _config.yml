@@ -27,7 +27,3 @@ gems: [jekyll-paginate]
 #pagination
 paginate: 5
 safe: false
-
-#tags
-tag_page_layout: tag_page
-tag_page_dir: tag
