@@ -597,3 +597,13 @@ a.post-link:hover {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+  padding-right: 10px;
+}
