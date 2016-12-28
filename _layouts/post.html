@@ -5,13 +5,12 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}<span itemprop="tags">{% for tags in page.tags %}{{ tags }}&nbsp;
-  {% endfor %}
-</span></p>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+    <p class="tags"><span itemprop="tags">{% for tags in page.tags %}{{ tags }}&nbsp;{% endfor %}</span></p>
     <span class="separator">+&nbsp;+&nbsp;+&nbsp;</span></div> 
 	<img src="/img/guadalupe.png" class="Virgen" title="¿No estoy yo aquí que soy tu Madre?">
   </div>
