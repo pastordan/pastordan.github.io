@@ -14,7 +14,7 @@ layout: default
 	{% if page.tags == null %}<!--no tags-->
     {% else %}
         In:&nbsp;
-        	{% for tag in page.tags %}<a href="/tags#{{ tag | slugify }}-ref">{{ tag | capitalize}}</a>&nbsp;
+        	{% for tag in page.tags %}<a href="/tags#{{ tag }}-ref">{{ tag | capitalize}}</a>&nbsp;
             {% endfor %}
                   
 	{% endif %}
