@@ -16,15 +16,6 @@ url: "pastordan.github.io" # the base hostname & protocol for your site
 twitter_username: pastordan
 facebook_username: DanielSchultzWriter
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      share: facebook linkedin twitter # Sharing default
-
-
 future: true
 
 # Build settings
@@ -36,3 +27,7 @@ gems: [jekyll-paginate]
 #pagination
 paginate: 5
 safe: false
+
+#tags
+tag_page_layout: tag_page
+tag_page_dir: tag
