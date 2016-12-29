@@ -16,13 +16,13 @@ Nancy says she's open to suggestions, so here we go. Allow me to slip on my Libe
 -Work individually with the chronically misinformed to fill them in one step at a time. It seems like a thankless task, but trust me, it does something.
 -DID I MENTION GET RID OF FOX NEWS AND RUSH LIMBAUGH WHILE YOU'RE AT IT
 
-For a different perspective&lt;Pastor hat&gt;:
+For a different perspective, &lt;Pastor hat&gt;:
 -Even liberal Christians have something to offer in insisting that there is an actual truth out there, a reality not of our own making. The gospel of John, for example, describes Jesus as "[full of grace and truth](http://bible.oremus.org/?ql=349980574)."
 -To insist on this truth, as Christians have done for thousands of years, does not require us to get entangled in debates about postmodernity or scientific-vs.-supernatural ways of knowing. The "truth" that John names has nothing to do with language games or dinosaur fossils. It is quite simply taking a stand in existence on the premise that the same restless, creative power of love that brought the universe into existence entered into flesh and blood in the man Jesus of Nazareth, and continues to work in those who choose to cooperate with it even today. Now *that's* a ballsy claim about reality.
--We can watch this truth unfold in the world around us, if we're willing to listen for it, carefully, accurately, and without the defensive posture of wanting someone to tell us what "they" won't.
+-We can watch this truth unfold in the world around us, if we're willing to listen for it, carefully, accurately, and without the defensive posture of wanting someone to tell us what "they" won't. Christians have no business falling for lies, propoganda, fake news, or the temptation to give up on knowing what's true and what's not.
 
 &lt;Social Science hat&gt;:
--Unfortunately, we also have to reckon with another truth, which is that people don't choose their ideological affiliations because of the facts, but the other way around. They choose their truth based on which tribe they belong to. In a contest between believing the first black president in particular and Democrats in general have accomplished great things for Americans and allowing the cozy assumptions of white supremacy to remain intact, well, which one do you think is going to win? That's right: the one that tells the chooser they are a virtuous and responsible member of society, well-fit for and accepted by friends and neighbors.
+-Unfortunately, we also have to reckon with another truth, which is that people don't choose their ideological affiliations because of the facts, but the other way around. They choose their truth based on which tribe they belong to. In a contest between believing that the first black president in particular and Democrats in general have accomplished great things for Americans or allowing the cozy assumptions of white supremacy to remain intact, well, which one do you think is going to win? That's right: the option that tells the chooser they are a virtuous and responsible member of society, well-fit for and accepted by friends and neighbors.
 
 &lt;Liberal Hat&gt;
 -So you're saying we're screwed?
