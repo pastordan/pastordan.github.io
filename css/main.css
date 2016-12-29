@@ -422,7 +422,11 @@ a.post-link:hover {
 }
 
 .content {
-  padding:2% 10% 0 5%
+  padding:2% 10% 0 3%
+}
+
+.content li {
+  list-style-type: disc;
 }
 
 #search {

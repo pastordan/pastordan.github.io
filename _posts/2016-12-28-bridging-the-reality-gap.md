@@ -9,7 +9,7 @@ tags:
   hats
 ---
 
-Nancy LeTourneau delved into the mystery of the "[reality gap](http://washingtonmonthly.com/2016/12/28/how-do-we-bridge-the-reality-gap/#.WGQrukbIUD0.twitter)" over at the Washington Monthly blog earlier today. If you're not familiar with that, it (the reality gap, not Washington Monthly) is the phenomenon of large segments of the population believing things that are demonstrably untrue, for example that unemployment has risen under Obama (it has not), or that more people are without health insurance (they are not). They call this a "gap" because&mdash;there is no gentle way to put this&mdash;it's almost always Republicans who get the facts wrong.
+Nancy LeTourneau delved into the mystery of the "[reality gap](http://washingtonmonthly.com/2016/12/28/how-do-we-bridge-the-reality-gap/#.WGQrukbIUD0.twitter)" over at the Washington Monthly blog earlier today. If you're not familiar with that (the reality gap, not Washington Monthly), it's the phenomenon of large segments of the population believing things that are demonstrably untrue, for example that unemployment has risen under Obama (it has not), or that more people are without health insurance (they are not). They call this a "gap" because&mdash;there is no gentle way to put this&mdash;it's almost always Republicans who get the facts wrong.
 
 Nancy says she's open to suggestions, so here we go. Allow me to slip on my Liberal Hat first:
 
