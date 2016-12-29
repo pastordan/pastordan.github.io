@@ -1,5 +1,5 @@
 ---
-title: 2016-12-28-how-to-bridge-the-reality-gap-an-answer-in-hats.markdown
+title: How to Bridge the Reality Gap&#58; An Answer in Hats
 layout: post
 date: 2016-12-28 20:39:03
 tags:
