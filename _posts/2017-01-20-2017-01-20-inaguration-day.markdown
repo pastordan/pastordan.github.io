@@ -1,7 +1,0 @@
----
-title: 2017-01-20-inaguration-day
-layout: post
-date:
-tags:
----
-<!--share-->
