@@ -1,5 +1,5 @@
 ---
-title: inaguration-day
+title: Inauguration Day
 layout: post
 date: 2017-01-20 14:56:00
 tags: politics sermon christian-unity 1-Corinthians
