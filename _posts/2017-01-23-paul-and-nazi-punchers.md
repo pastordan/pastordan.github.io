@@ -12,7 +12,8 @@ The video has in turn prompted much discussion, along more or less unsurprising 
 
 Listening to the discussion brought to mind [Romans 13](http://bible.oremus.org/?ql=346915353) ("Let everyone be subject to the governing authorities…"), naturally enough. I thought it would be worth looking at the passage in a little more depth, given what citizen relationships with the government—and each other—are likely to be in the next few years.
 
-![Capt. America punching Hitler](/images/cap.jpg)
+<img src="/img/cap.jpg" alt="Capt. America punching Hitler">
+<!--more-->
 <!--share-->
 
 The first thing to understand is that unlike most of Paul’s letters, Romans isn’t written to address a specific situation. It’s more philosophical. It’s really a letter of self-introduction before Paul comes to hit the church up for money; in it, he lays out some big themes of his ministry to give his potential donors an idea of where he's coming from. One of those themes is the Christian’s relationship to the law. Paul, after all, has won the argument within the church about whether Gentile converts to Christianity should or should not to be subject to Jewish law. (Not, says Paul.)
