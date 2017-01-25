@@ -3,8 +3,10 @@ title: Was It Over When The Germans Bombed Pearl Harbor
 layout: post
 date: 2017-01-25 13:08:57
 tags: activism politics
-image: /images/biden-pearl-harbor.png
+image: /img/biden-pearl-harbor.png
 ---
+<img src="/img/biden-pearl-harbor.png" alt="biden-pearl-harbor">
+
 I don't know if this is a word of hope or warning or rallying, but here’s the thing with this sudden flurry of activity from Trump and Congress: as those of us who have lived under radical GOP rule can tell you, "shock and awe" is definitely part of the program. They’re going to throw a thousand things at the wall, counting on the fact that people can only effectively oppose a few of them. Don’t bother with the "X is just a convenient distraction from Y!" It’s all coming at the same time, you’ll make yourself nuts.
 
 (Also, as a side note, for fucks' sake stop with the "this is terrifying," "this is not normal," "let that sink in," etc. Everybody’s consciousness has been raised, thanks.)
