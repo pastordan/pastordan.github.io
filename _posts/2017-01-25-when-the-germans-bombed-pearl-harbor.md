@@ -1,5 +1,5 @@
 ---
-title: Was It Over When The Germans Bombed Pearl Harbor&#64;
+title: Was It Over When The Germans Bombed Pearl Harbor
 layout: post
 date:2017-01-25 13:08:57
 tags: activism politics
