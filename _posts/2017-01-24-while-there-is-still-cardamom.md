@@ -16,7 +16,7 @@ The shadows are lengthening.<br>
 Narrow men are tapping for his due<br>
 who shouts alone to the dark in darkened rooms,<br>
 growls before dawn, unable to feel loved.<br>
-Get alert for the holy unfinished:<br>
+Be alert for the holy unfinished:<br>
 plant your feet, stand where you have always stood.
 
 While there are still cardinals,<br>
