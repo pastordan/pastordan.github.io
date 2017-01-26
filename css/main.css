@@ -425,7 +425,7 @@ a.post-link:hover {
   padding:2% 10% 0 3%
 }
 
-.content li {
+.content ul li {
   list-style-type: disc;
 }
 
