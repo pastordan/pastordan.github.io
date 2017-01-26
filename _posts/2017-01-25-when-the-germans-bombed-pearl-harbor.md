@@ -30,11 +30,11 @@ There are *many* people like this who don’t think they can share their opinion
 If you care about the issues, it is your responsibility to educate others about their rights as citizens. That’s true for both liberals and conservatives, but particularly for liberals. Here’s why: the modern, radical, GOP succeeds by locking people out of the political process by formal means (vote suppression) and by informal discouragement. If you want liberal or progressive values to succeed, you *must* increase participation. 
 
 Therefore, one of the most valuable things you can do as a progressive activist is to teach other people how to make their voices heard. Another incredibly important thing you can do is help people register to vote, particularly as barriers continue to rise. Fortunately, there are tools to make at least the participation bit easy:
--You can look up congressional activity here: [http://congress.gov](http://congress.gov)
--You can find your representative by zip code [here: http://house.gov/htbin/findrep](http://house.gov/htbin/findrep)
--Find your Senator here: [https://www.senate.gov/senators/contact/](https://www.senate.gov/senators/contact/)
--You can read about strategy here: [http://indivisibleguide.com/web/](http://indivisibleguide.com/web/) (That’s the Indivisible movement, highly recommended.)
--You can even get suggestions of calls to make and sample scripts: [http://5calls.org](http://5calls.org)
+- You can look up congressional activity here: [http://congress.gov](http://congress.gov)
+- You can find your representative by zip code [here: http://house.gov/htbin/findrep](http://house.gov/htbin/findrep)
+- Find your Senator here: [https://www.senate.gov/senators/contact/](https://www.senate.gov/senators/contact/)
+- You can read about strategy here: [http://indivisibleguide.com/web/](http://indivisibleguide.com/web/) (That’s the Indivisible movement, highly recommended.)
+- You can even get suggestions of calls to make and sample scripts: [http://5calls.org](http://5calls.org)
 
 Remember while you’re doing this: tweets and Facebook posts to elected officials are utterly worthless. So are emails, email petitions, and open letters. Direct letters are better, but not much. What they do respect and fear are phone calls, particularly to their *local* district offices. They also listen to constituent meetings, which it is your right to ask for. (Better in a group.) They also pay attention to town hall meetings, particularly if they get embarrassing.<sup id="a2">[2](#fn2)</sup>
 
