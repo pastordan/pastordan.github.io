@@ -24,7 +24,7 @@ not one of his bones shall be broken.
 Evil brings death to the wicked;<br>
 those who hate the good are doomed.<br>
 The Lord ransoms the souls of his servants.<br> 
-Those who hide in him shall not be condemned.*<br>
+Those who hide in him shall not be condemned.* <br>
 &mdash;Psalm 34
 
 **Concluding prayer:**<br>
