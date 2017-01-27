@@ -11,17 +11,17 @@ to destroy their remembrance from the earth. <br>
 The Lord turns his eyes to the just<br>
 and his ears to their appeal.
 
-They call and the Lord hears<br>
+<em>They call and the Lord hears<br>
 and rescues them in all their distress.<br>
 The Lord is close to the broken-hearted; <br>
 those whose spirit is crushed he will save.<br>
 
-Many are the trials of the just man<br>
+<em>Many are the trials of the just man<br>
 but from them all the Lord will rescue him. <br>
 He will keep guard over all his bones,<br>
 not one of his bones shall be broken.
 
-Evil brings death to the wicked;<br>
+<em>Evil brings death to the wicked;<br>
 those who hate the good are doomed.<br>
 The Lord ransoms the souls of his servants.<br> 
 Those who hide in him shall not be condemned.</em> <br>
