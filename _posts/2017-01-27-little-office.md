@@ -6,7 +6,7 @@ tags: mary scripture psalm-34
 ---
 From the [Little Office of Mary](http://www.liturgies.net/Liturgies/Catholic/LittleOffice.htm):
 
-*The Lord turns his face against the wicked<br>
+<em>The Lord turns his face against the wicked<br>
 to destroy their remembrance from the earth. <br>
 The Lord turns his eyes to the just<br>
 and his ears to their appeal.
@@ -24,7 +24,7 @@ not one of his bones shall be broken.
 Evil brings death to the wicked;<br>
 those who hate the good are doomed.<br>
 The Lord ransoms the souls of his servants.<br> 
-Those who hide in him shall not be condemned.* <br>
+Those who hide in him shall not be condemned.</em> <br>
 &mdash;Psalm 34
 
 **Concluding prayer:**<br>
