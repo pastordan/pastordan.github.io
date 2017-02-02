@@ -345,6 +345,12 @@ footer .site-title {
   .post-list > li {
     margin-bottom: 30px; }
 
+.divider {
+  display: block;
+  text-align: center;
+  font-weight: 500;
+  font-size: 1.5em;
+}
 .separator {
     display: inline-block;
     margin: 10% 0% 5% 47%;
