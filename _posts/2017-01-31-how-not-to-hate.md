@@ -20,7 +20,7 @@ Anger is a motivator. Its "job" is to get you to respond to the threat. Sometime
 
 One more thing to know about anger: it's not an automatic response. It's a product of our thoughts and perceptions. That means it can be, yes, managed by looking at what we bring to the table. It also means that anger isn't something to hidden or repressed. The first step toward dealing with anger is admitting that you're angry—sometimes with good cause. Still, like you, most people feel uncomfortable with emotions like anger, much less hate. It's unsettling to feel that way about another person.
 
-<span class="divider" ">+</span>
+<span class="divider">+</span>
 
 Now, let's talk about forgiveness, the voluntary remission of claims you might have against another person who has done you wrong. That can be legal, as in forgiving a debt. It can also be emotional. When some family members of the people murdered by Dylann Roof offered him forgiveness, it was a statement that they were giving up on their legitimate claim to hate him forever, not a release from the legal consequences of his actions.
 
