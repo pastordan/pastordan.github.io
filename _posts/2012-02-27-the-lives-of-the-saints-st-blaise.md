@@ -1,5 +1,5 @@
 ---
-title: The Lives of the Saints: St. Blaise
+title: The Lives of the Saints&#58; St&#46; Blaise
 layout: post
 date: 2012-02-27 20:24:00
 tags: st-blaise lives-of-the-saints
