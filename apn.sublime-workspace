@@ -20,9 +20,19 @@
 	"buffers":
 	[
 		{
+			"file": "/Users/administrator/Downloads/New APN_-1.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 35020,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 810,
 				"line_ending": "Unix"
 			}
 		}
@@ -50,10 +60,50 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 47.0,
-		"last_filter": "",
+		"height": 392.0,
+		"last_filter": "jekyll",
 		"selected_items":
 		[
+			[
+				"jekyll",
+				"Jekyll: New post from template"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"Inser",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"New",
+				"Jekyll: New post from template"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Jekyll",
+				"Jekyll Utility: Migrate project settings"
+			],
 			[
 				"Git: Push",
 				"Git: Push"
@@ -83,14 +133,6 @@
 				"Git: Push"
 			],
 			[
-				"comm",
-				"Git: Commit"
-			],
-			[
-				"push",
-				"Git: Push Current Branch"
-			],
-			[
 				"sta",
 				"Git: Status"
 			],
@@ -109,10 +151,6 @@
 			[
 				"add",
 				"Git: Add Current File"
-			],
-			[
-				"stat",
-				"Git: Status"
 			],
 			[
 				"git:re",
@@ -191,13 +229,15 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 449.0
+		"width": 458.0
 	},
 	"console":
 	{
 		"height": 126.0,
 		"history":
 		[
+			"\"tags 2\"",
+			"echo $PATH  ",
 			"/Users/administrator/pastordan.github.io/_posts",
 			"new post",
 			"push -m origin master",
@@ -230,20 +270,44 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/administrator/pastordan.github.io"
+	],
 	"file_history":
 	[
-		"/Users/administrator/pastordan.github.io/apn.sublime-project",
+		"/Users/administrator/pastordan.github.io/_posts/2017-02-02-k3.markdown",
+		"/Users/administrator/pastordan.github.io/_posts/2017-01-24-2017-01-24-while-there-is-still-cardamom.md",
+		"/Users/administrator/pastordan.github.io/_posts/2017-01-24-2017-01-24-while-there-is-still-cardamom.markdown",
+		"/Users/administrator/pastordan.github.io/_posts/2016-12-28-bridging-the-reality-gap.md",
+		"/Users/administrator/pastordan.github.io/_posts/2017-01-23-paul-and-nazi-punchers.md",
+		"/Users/administrator/pastordan.github.io/_posts/2016-12-29-test-dawg.md",
+		"/Users/administrator/pastordan.github.io/_posts/2017-01-20-inaguration-day.md",
+		"/Users/administrator/pastordan.github.io/_posts/2016-12-29-test-dog.md",
+		"/Users/administrator/pastordan.github.io/_posts/2016-12-28-how-to-bridge-the-reality-gap-an-answer-in-hats.markdown",
+		"/Users/administrator/pastordan.github.io/_posts/2016-12-25-santa-elf-doesnt-care.md",
+		"/Users/administrator/pastordan.github.io/_config.yml",
+		"/Users/administrator/pastordan.github.io/_layouts/page.html",
+		"/Users/administrator/pastordan.github.io/tags.html",
 		"/Users/administrator/pastordan.github.io/_layouts/social-feed.xml",
 		"/Users/administrator/pastordan.github.io/_includes/head.html",
+		"/Users/administrator/pastordan.github.io/_includes/footer.html",
+		"/Users/administrator/pastordan.github.io/_layouts/post.html",
+		"/Users/administrator/pastordan.github.io/tag.html",
+		"/Users/administrator/pastordan.github.io/_layouts/tag_page.html",
+		"/Users/administrator/pastordan.github.io/Gemfile",
+		"/Users/administrator/pastordan.github.io/_layouts/tag_index.html",
+		"/Users/administrator/pastordan.github.io/_plugins/ext.rb",
+		"/Users/administrator/pastordan.github.io/_plugins/_tag_gen.rb",
+		"/Users/administrator/pastordan.github.io/index.html",
+		"/Users/administrator/pastordan.github.io/apn.sublime-project",
+		"/Users/administrator/pastordan.github.io/_posts/2016-12-26-2016-12-26-newmd.markdown",
 		"/Users/administrator/pastordan.github.io/feed.xml",
-		"/Users/administrator/pastordan.github.io/_config.yml",
 		"/Users/administrator/pastordan.github.io/_posts/2016-12-26-new-santa-elf-doesnt-care.md",
 		"/Users/administrator/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/post.yaml",
 		"/Users/administrator/pastordan.github.io/social-feeds/facebook.xml",
 		"/Users/administrator/pastordan.github.io/social-feeds/twitter.xml",
 		"/Users/administrator/pastordan.github.io/social-feeds/linkedin.xml",
-		"/Users/administrator/pastordan.github.io/index.html",
-		"/Users/administrator/pastordan.github.io/_posts/2016-12-25-santa-elf-doesnt-care.md",
 		"/Users/administrator/pastordan.github.io/_posts/2016-12-25-christmas-special.md",
 		"/Users/administrator/pastordan.github.io/_posts/Christmas Special.md",
 		"/Users/administrator/pastordan.github.io/_posts/2016-12-24-a-little-christmas-present.md",
@@ -316,7 +380,7 @@
 		"replace_history":
 		[
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -330,10 +394,40 @@
 			[
 				{
 					"buffer": 0,
+					"file": "/Users/administrator/Downloads/New APN_-1.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 35020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18166,
+								18173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 810,
 						"regions":
 						{
 						},
@@ -346,13 +440,13 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -360,7 +454,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -460,7 +554,7 @@
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 150.0,
-	"status_bar_visible": true,
+	"status_bar_visible": false,
 	"template_settings":
 	{
 	}
