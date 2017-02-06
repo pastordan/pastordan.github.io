@@ -1,8 +1,0 @@
----
-title: matthew-5
-layout: post
-date:
-tags:
----
-
-<!--share-->
