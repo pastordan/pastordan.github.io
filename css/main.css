@@ -21,6 +21,15 @@ body {
   font-feature-settings: "kern" 1;
   font-kerning: normal; }
 
+em {
+  letter-spacing: .04em;
+  font-family: Palatino;
+}
+
+blockquote p {
+  letter-spacing: initial;
+}
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
