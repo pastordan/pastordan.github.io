@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
   <link href="https://fonts.googleapis.com/css?family=Cardo:400,400i,700" rel="stylesheet">
   <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"> 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
   <!--Facebook properties-->
@@ -37,7 +37,7 @@
   <meta content="{{ site.url }}/about/" property="article:author">
 {% endif %}
 {% if page.image %}
-  <meta content="/img/srcset/{{ page.image }}" property="og:image">
+  <meta content="/img/{{ page.image }}" property="og:image">
 {% else %}
   <meta content="/img/Guadalupe_large.png" property="og:image">
 {% endif %}
