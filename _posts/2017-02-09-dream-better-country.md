@@ -3,11 +3,12 @@ title: We Dream Of A Better Country
 layout: post
 date: 2017-02-09 13:58:47
 tags: words-of-hope sermon letter-to-the-hebrews faith hope
-image: /img/paul_revere.jpg
+image: /img/paul_revere.jpeg
 ---
-<img src="/img/paul_revere.jpg" alt="Grant Wood Paul Revere's Ride" title="Grant Wood: Paul Revere's Ride">
+<img src="/img/paul_revere.jpeg" alt="Grant Wood Paul Revere's Ride" title="Grant Wood: Paul Revere's Ride">
 <br>
 <br>
+
 >Now faith is the assurance of things hoped for, the conviction of things not seen,
 
 says the anonymous letter to the Hebrews. Like much of the epistle, it's a sophisticated, lovely passage, well worth reading against the headlines these days.
