@@ -12,7 +12,7 @@ image: /img/paul_revere.jpg
 
 says the anonymous letter to the Hebrews. Like much of the epistle, it's a sophisticated, lovely passage, well worth reading against the headlines these days.
 
-To be clear, and at the risk of ruining many a college dorm-room debate, "faith" here doesn't mean belief without evidence. In the ancient world outside of Christianity, it meant to be persuaded, as in deciding to trust a guarantee. Clarence Jordon's famously plain-spoken translation gets at the poetry:
+To be clear, and at the risk of ruining many a college dorm-room debate, "faith" here doesn't mean belief without evidence. In the ancient world outside of Christianity, it meant to be persuaded, as in deciding to trust a guarantee. [Clarence Jordon's](https://en.wikipedia.org/wiki/Clarence_Jordan) famously plain-spoken translation gets at the poetry:
 
 >Now faith is the turning of dreams into deeds; it is betting your life on unseen realities.
 
