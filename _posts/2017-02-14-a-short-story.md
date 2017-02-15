@@ -3,6 +3,7 @@ title: A Short Story
 layout: post
 date: 2017-02-14 19:45:15
 tags: taco-tuesday hope
+image: /img/tt_2017-02-14.jpg
 description: It's about being grateful for a dog
 ---
 A couple members of the congregation and I visited an intergenerational worship service this past Sunday. It kicked off late in the afternoon with a Bible story (Jesus calling Simon Peter to fish for men), then proceeded through some activities and dinner before wrapping up with a second telling of the story, a prayer, and a song.
