@@ -433,6 +433,10 @@ a.post-link:hover {
       .post-content h4 {
         font-size: 18px; } }
 
+aside dd {
+  margin-left: 20px;
+}
+
 .about-page h4 {
   color: rgba(0,0,0,0.5);
 }
