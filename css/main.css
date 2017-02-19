@@ -44,7 +44,14 @@ ul, ol, dl, figure,
  */
 img {
   max-width: 100%;
-  vertical-align: middle; }
+  vertical-align: middle; 
+}
+
+div.content img {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
 
 .Virgen {
   display: block;
