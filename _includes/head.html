@@ -12,8 +12,9 @@
   <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"> 
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-
+<br />
   <!--Facebook properties-->
+<meta content="739935502842159" property="fb:app_id">
 <meta content="{{ site.title }}" property="og:site_name">
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
@@ -53,7 +54,7 @@
   {% endfor %}
 {% endif %}
 <!--end Facebook properties-->
-
+<br />
 <!--Twitter properties-->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@pastordan">
