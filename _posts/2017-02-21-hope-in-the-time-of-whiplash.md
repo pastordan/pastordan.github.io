@@ -6,7 +6,7 @@ tags: hope
 img: hillary.jpeg
 description: How do you keep hope alive in dizzying times?
 ---
-<img src="http://apastorsnotebook.com/img/hillary.jpeg" alt="He'll kill us all">
+<img src="http://apastorsnotebook.com/img/hillary.jpg" alt="He'll kill us all">
 
 If following the headlines leaves you feeling like you've got a tiger by tail, you're not alone. Nor are you making it up. [At least one recent study](http://fortune.com/2017/02/15/donald-trump-election-stress-psychology/) claims to show that Americans are more stressed out about politics than they've been in the past ten years.
 
