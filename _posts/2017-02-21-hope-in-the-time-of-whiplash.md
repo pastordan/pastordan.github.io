@@ -1,7 +1,7 @@
 ---
 title: Hope In The Time Of Whiplash
 layout: post
-date: 2017-02-16 14:26:15
+date: 2017-02-21 16:09:03
 tags: hope
 img: hillary.jpeg
 description: How do you keep hope alive in dizzying times?
