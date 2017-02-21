@@ -3,7 +3,7 @@ title: Hope In The Time Of Whiplash
 layout: post
 date: 2017-02-21 16:09:03
 tags: hope
-img: hillary.jpeg
+img: hillary.jpg
 description: How do you keep hope alive in dizzying times?
 ---
 <img src="http://apastorsnotebook.com/img/hillary.jpg" alt="He'll kill us all">
