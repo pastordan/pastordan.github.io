@@ -8,7 +8,7 @@ tags:
      - Saints
      - gun violence
 ---
-<img src="/img/gun-script.png">
+<img src="/img/allsaints.jpg">
 
 In light of the news from Sutherland Springs, I’m going to do something you might think crazy: go back to scripture.
 
