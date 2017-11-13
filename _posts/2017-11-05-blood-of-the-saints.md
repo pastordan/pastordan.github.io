@@ -1,7 +1,7 @@
 ---
 title: There's a reason so many hymns talk about the blood of the saints
 layout: post
-date: 2017-09-24
+date: 2017-11-05
 tags: 
      - 1 John
      - sermon
